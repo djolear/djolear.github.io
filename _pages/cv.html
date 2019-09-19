@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+---
+
+{% include base_path %}
+
+<body>
+    <iframe src="/files/doleary_cv.pdf" width="100%" height="500px">
+    </iframe>
+</body>
+
+{% for post in site.CV %}
+  {% include archive-single.html %}
+{% endfor %}
