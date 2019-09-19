@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Daniel O'Leary"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD Student in Psychology"
   location         : "Stanford University"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=s68mme0AAAAJ&hl=en&oi=sra"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-1696-6726"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "djolear_89"
   vine             :
   weibo            :
   xing             :
