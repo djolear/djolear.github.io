@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Daniel O'Leary"
-  avatar           : "profile.png"
+  avatar           : "/images/profile.png"
   bio              : "PhD Student in Psychology"
   location         : "Stanford University"
   employer         :
