@@ -10,6 +10,8 @@ author_profile: true
 --------------------------------------------------------------------------------->
 <strong><font size = "6">Data Science Projects</font></strong>
 
+# Data Science Projects
+
 <!--- ------------------------- P50 Paper ------------------------ --->
 <p><strong>Analysis of 2016 election results for Data Challenge Lab Winter 2018.</strong><br>
 <img src="/files/party_shift_per_county.png" alt="Broken"><br>
