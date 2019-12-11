@@ -41,6 +41,13 @@ author_profile: true
 
 ***
 
+<p><strong><font size = "5">Analysis of health inequality for Data Challenge Lab Winter 2018.</font></strong><br>
+<img src="/files/health_ineq.png" alt="Broken"><br>
+<a href="https://github.com/djolear/dcl_projects/blob/master/c14-health-inequality/challenge.md">[Markdown]</a>
+</p>
+
+***
+
 <p><strong><font size = "5">Analysis of Views of the Electorate Research (VOTER) Survey for Data Challenge Lab Winter 2018.</font></strong><br>
 <img src="/files/voter_survey_3.png" alt="Broken"><br>
 <a href="https://github.com/djolear/dcl_projects/blob/master/c24-voter-survey-3/challenge.md">[Markdown]</a>
