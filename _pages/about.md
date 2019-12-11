@@ -14,4 +14,4 @@ One line of my work is focused on how socioeconomic status influences health beh
 
 I employ a multimethod approach to testing hypotheses, integrating behavioral methods, computational modelling, as well as longitudinal and machine learning analyses of larger datasets, with an emphasis on reproducible and open science. 
 
-Before coming to Stanford University, I received my Bachelor's Degreen from Northwestern where I double-majored in Psychology and English Literature. At Northwestern, I worked in [the Affective & Clinical Neuroscience Laboratory](https://acnlnorthwestern.com/) and [the Creative Cognition Laboratory](https://sites.northwestern.edu/markbeemanlab/).
+Before coming to Stanford University, I received my Bachelor's Degree from Northwestern University where I double-majored in Psychology and English Literature. At Northwestern, I worked in [the Affective & Clinical Neuroscience Laboratory](https://acnlnorthwestern.com/) and [the Creative Cognition Laboratory](https://sites.northwestern.edu/markbeemanlab/).
