@@ -44,9 +44,11 @@ DL Zabelina, <strong>D O'Leary</strong>, N Pornpattananangkul, R Nusslock, &amp;
 
 <!--- ------------------------- P50 Paper ------------------------ --->
 <p>
-	
+
 <strong>D O'Leary</strong>, JJ Gross, &amp; D Rehkopf, (under review). Negative affect mediates the prospective
 association between household income with weight-gain in adolescent girls.
+<em>Combined machine learning and path analysis (n = 2139) of large-scale longitudinal data aimed at
+identifying the factors that explain the relationship between SES and change in BMI.</em>
 
 <strong>D O'Leary</strong>, C Hutcherson, A Smith, B Shiv, &amp; JJ Gross. (under review). Socioeconomic status
 and food choice: A value-based decision-making account.
