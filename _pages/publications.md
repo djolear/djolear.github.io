@@ -46,9 +46,7 @@ DL Zabelina, <strong>D O'Leary</strong>, N Pornpattananangkul, R Nusslock, &amp;
 <p>
 	<strong>D O'Leary</strong>, JJ Gross, &amp; D Rehkopf, (under review). Negative affect mediates the prospective
 	association between household income with weight-gain in adolescent girls.
-</p>
-
-<p>
+	<br>
 	<em>Combined machine learning and path analysis (n = 2139) of large-scale longitudinal data aimed at
 	identifying the factors that explain the relationship between SES and change in BMI.</em>
 </p>
@@ -57,9 +55,7 @@ DL Zabelina, <strong>D O'Leary</strong>, N Pornpattananangkul, R Nusslock, &amp;
 <p>
 	<strong>D O'Leary</strong>, C Hutcherson, A Smith, B Shiv, &amp; JJ Gross. (under review). Socioeconomic status
 	and food choice: A value-based decision-making account.
-</p>
-
-<p>
+	<br>
 	<em>Series of laboratory and survey studies (n = 8000) showing that low SES participants are more likely to
 	choose unhealthy foods than high SES subjects, particularly when low SES is categorized using subjective
 	measures </em>
