@@ -31,7 +31,7 @@ author_profile: true
 
 <!--- ------------------------- P50 Paper ------------------------ --->
 <p>
-DL Zabelina, <strong>D O'Leary</strong>, N Pornpattananangkul,, R Nusslock, &amp; M Beeman (2015). Creativity and sensory gating indexed by the P50: Selective versus leaky sensory gating in divergent thinkers and creative achievers. <em>Neuropsychologia.</em><br>
+DL Zabelina, <strong>D O'Leary</strong>, N Pornpattananangkul, R Nusslock, &amp; M Beeman (2015). Creativity and sensory gating indexed by the P50: Selective versus leaky sensory gating in divergent thinkers and creative achievers. <em>Neuropsychologia.</em><br>
 <a href="https://www.sciencedirect.com/science/article/abs/pii/S002839321500041X">[Link]</a> 
 <a href="https://static1.squarespace.com/static/57ab59ce893fc0d6eb450ccb/t/5907fb08c534a53150513048/1493695241682/Zabelina+P50+Neuropsychologia+2015.pdf">[PDF]</a>
 </p>
@@ -44,8 +44,12 @@ DL Zabelina, <strong>D O'Leary</strong>, N Pornpattananangkul,, R Nusslock, &amp
 
 <!--- ------------------------- P50 Paper ------------------------ --->
 <p>
-<strong>D O'Leary</strong>, JJ Gross, & D Rehkopf, (under review). Negative affect mediates the prospective
+	
+<strong>D O'Leary</strong>, JJ Gross, &amp; D Rehkopf, (under review). Negative affect mediates the prospective
 association between household income with weight-gain in adolescent girls.
+
+<strong>D O'Leary</strong>, C Hutcherson, A Smith, B Shiv, &amp; JJ Gross. (under review). Socioeconomic status
+and food choice: A value-based decision-making account.
 
 </p>
 
