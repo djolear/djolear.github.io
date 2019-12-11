@@ -63,7 +63,7 @@ DL Zabelina, <strong>D O'Leary</strong>, N Pornpattananangkul, R Nusslock, &amp;
 
 <!--- ------------------------- P50 Paper ------------------------ --->
 <p>
-	<strong>D O'Leary</strong>, A Uuysal, D Rehkopf, &amp; JJ Gross. (under review). Social status and physical health: The role of negative affect and cognitive reappraisal.
+	<strong>D O'Leary</strong>, A Uuysal, D Rehkopf, &amp; JJ Gross. (in preparation). Social status and physical health: The role of negative affect and cognitive reappraisal.
 	<br>
 	<em>Longitudinal analysis (n = 4000) of the degree to which negative affect mediates the relationship between
 	socioeconomic status and morbidity as well as mortality. In addition, we show that use of cognitive
@@ -73,7 +73,7 @@ DL Zabelina, <strong>D O'Leary</strong>, N Pornpattananangkul, R Nusslock, &amp;
 
 <!--- ------------------------- P50 Paper ------------------------ --->
 <p>
-	<strong>D O'Leary</strong> &amp; JJ Gross. (under review). Affect regulation improves dietary decision-making under conditions of negative affect.
+	<strong>D O'Leary</strong> &amp; JJ Gross. (in preparation). Affect regulation improves dietary decision-making under conditions of negative affect.
 	<br>
 	<em>Series of survey and laboratory studies (n = 1000) showing 1) that fluctuations in negative affect are associated increases in unhealthy food purchases on a college campus, 2) that participants make
 	unhealthy dietary decisions after exposure to a novel, personalized, negative affect induction, 3) and that
