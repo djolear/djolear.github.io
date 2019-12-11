@@ -87,7 +87,7 @@ DL Zabelina, <strong>D O'Leary</strong>, N Pornpattananangkul, R Nusslock, &amp;
                                 Talks                
 --------------------------------------------------------------------------------->
 
-<strong><font size = "4">Invited and Conference Talks </font></strong>
+<!---- <strong><font size = "4">Invited and Conference Talks </font></strong>
 
 <p> Under construction. </p>
 
