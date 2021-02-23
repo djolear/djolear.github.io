@@ -17,7 +17,7 @@ author_profile: true
 
 <!--- ------------------------- Vaccine 1 ------------------------ --->
 <p>
-JS Trueblood, AB Sussman, &amp; <strong>D O'Leary</strong>. (2020). The role of general risk preferences in messaging about COVID-19 vaccine take-up. <em>Social and Psychology and Personality Science</em><br>
+JS Trueblood, AB Sussman, &amp; <strong>D O'Leary</strong>. (2021). The role of general risk preferences in messaging about COVID-19 vaccine take-up. <em>Social and Psychology and Personality Science</em><br>
 </p>
 
 <!--- ------------------------- NGHS ------------------------ --->
