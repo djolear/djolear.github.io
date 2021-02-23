@@ -15,6 +15,18 @@ author_profile: true
 --------------------------------------------------------------------------------->
 <strong><font size = "4">Journal Publications</font></strong>
 
+<!--- ------------------------- Vaccine 1 ------------------------ --->
+<p>
+JS Trueblood, AB Sussman, &amp; <strong>D O'Leary</strong>. (2020). The role of general risk preferences in messaging about COVID-19 vaccine take-up. <em>Social and Psychology and Personality Science</em><br>
+</p>
+
+<!--- ------------------------- NGHS ------------------------ --->
+<p>
+<strong>D O'Leary</strong>, JJ Gross, &amp; D Rehkopf. (2020). Psychological distress mediates the prospective association between household income with weight-gain in adolescent girls. <em>Affective Science</em><br>
+<a href="https://link.springer.com/article/10.1007/s42761-020-00010-0">[Link]</a> 
+<a href="https://drive.google.com/file/d/1g3VtMxJZC3dzKXwM4ep3wvNnLLQnGPRI/view">[PDF]</a>
+</p>
+
 <!--- ------------------------- PH Paper ------------------------ --->
 <p>
 <strong>D O'Leary</strong>, G Suri,  &amp; JJ Gross (2018). Reducing behavioural risk factors for cancer: An affect regulation perspective. <em>Psychology & Health.</em><br>
@@ -42,13 +54,20 @@ DL Zabelina, <strong>D O'Leary</strong>, N Pornpattananangkul, R Nusslock, &amp;
 --------------------------------------------------------------------------------->
 <strong><font size = "4">Submitted Manuscripts and Working Papers</font></strong>
 
+
 <!--- ------------------------- P50 Paper ------------------------ --->
 <p>
-	<strong>D O'Leary</strong>, JJ Gross, &amp; D Rehkopf, (under review). Negative affect mediates the prospective
-	association between household income with weight-gain in adolescent girls.
+	<strong>D O'Leary</strong>, A Uuysal, D Rehkopf, &amp; JJ Gross. (revise and resubmit at Social Science and Medicine). Social status and physical health: The role of negative affect and cognitive reappraisal.
 	<br>
-	<em>Combined machine learning and path analysis (n = 2139) of large-scale longitudinal data aimed at
-	identifying the factors that explain the relationship between SES and change in BMI.</em>
+	<em>Longitudinal analysis (n = 4000) of the degree to which negative affect mediates the relationship between
+	socioeconomic status and morbidity as well as mortality. In addition, we show that use of cognitive
+	reappraisal moderates this mediation and provides protection against the ill effects (on affect and health)
+	of having low status. </em>
+</p>
+
+<!--- ------------------------- P50 Paper ------------------------ --->
+<p>
+	<strong>D O'Leary</strong>, AB Sussman, &amp; JS Trueblood. (in preparation). Job loss and risk preferences across time.
 </p>
 
 <!--- ------------------------- P50 Paper ------------------------ --->
@@ -61,19 +80,10 @@ DL Zabelina, <strong>D O'Leary</strong>, N Pornpattananangkul, R Nusslock, &amp;
 	measures. </em>
 </p>
 
-<!--- ------------------------- P50 Paper ------------------------ --->
-<p>
-	<strong>D O'Leary</strong>, A Uuysal, D Rehkopf, &amp; JJ Gross. (in preparation). Social status and physical health: The role of negative affect and cognitive reappraisal.
-	<br>
-	<em>Longitudinal analysis (n = 4000) of the degree to which negative affect mediates the relationship between
-	socioeconomic status and morbidity as well as mortality. In addition, we show that use of cognitive
-	reappraisal moderates this mediation and provides protection against the ill effects (on affect and health)
-	of having low status. </em>
-</p>
 
 <!--- ------------------------- P50 Paper ------------------------ --->
 <p>
-	<strong>D O'Leary</strong> &amp; JJ Gross. (in preparation). Affect regulation improves dietary decision-making under conditions of negative affect.
+	<strong>D O'Leary</strong> &amp; JJ Gross. (under review). Affect regulation improves dietary decision-making under conditions of negative affect.
 	<br>
 	<em>Series of survey and laboratory studies (n = 1000) showing 1) that fluctuations in negative affect are associated increases in unhealthy food purchases on a college campus, 2) that participants make
 	unhealthy dietary decisions after exposure to a novel, personalized, negative affect induction, 3) and that

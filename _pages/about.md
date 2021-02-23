@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral scholar in the Marketing Area at the University of Chicago Booth Business School. I currently work with Abigail Sussman, Oleg Urminksy, and Dan Bartels.
+I am a postdoctoral scholar in the Marketing Area at the University of Chicago Booth Business School. I currently work with [Abigail Sussman](https://faculty.chicagobooth.edu/abigail-sussman), [Oleg Urminksy](https://home.uchicago.edu/ourminsky/), and Dan [Bartels](https://home.uchicago.edu/bartels/).
 
 Before coming to Booth, I received my PhD in Psychology from Stanford University where I worked in the [Affective Science Area](https://psychology.stanford.edu/research/department-areas/affective-science) with [James Gross](https://spl.stanford.edu/james-gross-phd-0). I also worked with [Baba Shiv](https://www.gsb.stanford.edu/faculty-research/faculty/baba-shiv) and [David Rehkopf](https://profiles.stanford.edu/david-rehkopf). I was a fellow at the [Institute for Research in the Social Sciences](https://iriss.stanford.edu/).
 
