@@ -17,12 +17,12 @@ author_profile: true
 
 <!--- ------------------------- Vaccine 1 ------------------------ --->
 <p>
-JS Trueblood, AB Sussman, &amp; <strong>D O'Leary</strong>. (2021). The role of general risk preferences in messaging about COVID-19 vaccine take-up. <em>Social and Psychology and Personality Science</em><br>
+JS Trueblood, AB Sussman, &amp; <strong>D O'Leary</strong>. (2021). The role of general risk preferences in messaging about COVID-19 vaccine take-up. <em>Social and Psychology and Personality Science.</em><br>
 </p>
 
 <!--- ------------------------- NGHS ------------------------ --->
 <p>
-<strong>D O'Leary</strong>, JJ Gross, &amp; D Rehkopf. (2020). Psychological distress mediates the prospective association between household income with weight-gain in adolescent girls. <em>Affective Science</em><br>
+<strong>D O'Leary</strong>, JJ Gross, &amp; D Rehkopf. (2020). Psychological distress mediates the prospective association between household income with weight-gain in adolescent girls. <em>Affective Science.</em><br>
 <a href="https://link.springer.com/article/10.1007/s42761-020-00010-0">[Link]</a> 
 <a href="https://drive.google.com/file/d/1g3VtMxJZC3dzKXwM4ep3wvNnLLQnGPRI/view">[PDF]</a>
 </p>
