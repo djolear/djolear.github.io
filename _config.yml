@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Daniel O'Leary"
 title_separator          : "-"
 name                     : &name "Daniel O'Leary"
-description              : &description "PhD Student in Psychology"
+description              : &description "Postdoctoral Scholar in Marketing"
 url                      : https://djolear.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/djolear"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Daniel O'Leary"
   avatar           : "profile_picture.png"
-  bio              : "PhD Student in Psychology"
-  location         : "Stanford University"
+  bio              : "Postdoctoral Scholar in Marketing"
+  location         : "University of Chicago"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=s68mme0AAAAJ&hl=en&oi=sra"
